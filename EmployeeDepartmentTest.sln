@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeDepartmentTest", "EmployeeDepartmentTest\EmployeeDepartmentTest.csproj", "{D64EBF7C-A0E8-4C5B-BB05-CC213E5423AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeLoginAPP", "EmployeeLoginAPP\EmployeeLoginAPP.csproj", "{442FBE38-D286-445B-9C9E-F597046EED3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D64EBF7C-A0E8-4C5B-BB05-CC213E5423AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D64EBF7C-A0E8-4C5B-BB05-CC213E5423AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D64EBF7C-A0E8-4C5B-BB05-CC213E5423AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D64EBF7C-A0E8-4C5B-BB05-CC213E5423AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{442FBE38-D286-445B-9C9E-F597046EED3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{442FBE38-D286-445B-9C9E-F597046EED3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{442FBE38-D286-445B-9C9E-F597046EED3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{442FBE38-D286-445B-9C9E-F597046EED3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DF39805-93A1-49DB-992E-49C16AFFDF73}
+	EndGlobalSection
+EndGlobal
